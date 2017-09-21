@@ -21,7 +21,8 @@ const (
 	PROJECT_ID = "the-processor-180122"
 	BT_INSTANCE = "around-post"
 	// Needs to update this URL if you deploy it to cloud.
-	ES_URL = "http://34.214.112.239:9200"
+	// Vincent ES_URL = "http://52.43.84.96:9200"
+	ES_URL = "http://35.162.66.127:9200"
 )
 
 
